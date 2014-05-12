@@ -33,7 +33,7 @@ public class ContadorNumeros {
                 {
                     j--;
                 }
-        System.out.println(numero+"="+j);
+        System.out.println(numero+"=="+j);
         }
         
         
